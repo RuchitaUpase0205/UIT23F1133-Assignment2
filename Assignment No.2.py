@@ -13,7 +13,7 @@ import re
 import pandas as pd
 
 # Read Dataset
-df = pd.read_csv(r'E:\Natural-Language-Processing-Laboratory\Assignment-2\resumes.csv')
+df = pd.read_csv(r"C:\Users\upase\OneDrive\Desktop\UIT23F1133(NLP FOLDER)\UIT23F1133-Assignment2\resumes.csv")
 
 print("Original Dataset\n")
 print(df)
